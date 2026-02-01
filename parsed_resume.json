@@ -1,0 +1,235 @@
+{
+    "extracted": {
+        "contact": {
+            "email": "ankeet1728@gmail.com",
+            "phone": "+91 89183 96067",
+            "linkedin": "https://www.linkedin.com/in/ankeet-saha",
+            "github": "https://www.github.com/Ankeet1729",
+            "portfolio": null
+        },
+        "edu": {
+            "college": "IIT Bombay",
+            "degree": "B.Tech",
+            "branch": "Computer Science"
+        },
+        "rank": [
+            {
+                "exam": "JEE Advanced",
+                "rank": "605",
+                "context": "\u2022 Secured an All India Rank of 605 in JEE Advanced out of over 150,000+ candidates"
+            },
+            {
+                "exam": "JEE Mains",
+                "rank": "322",
+                "context": "\u2022 Secured an All India Rank of 322 in JEE Main out of over 1,000,000+ candidates"
+            }
+        ],
+        "skill": {
+            "Programming Languages": [
+                "Python",
+                "C",
+                "JavaScript",
+                "C++",
+                "PHP",
+                "SQL",
+                "HTML/CSS"
+            ],
+            "Libraries & Frameworks": [
+                "NumPy",
+                "Django",
+                "Node.js"
+            ],
+            "Tools & Platforms": [
+                "Docker",
+                "Git"
+            ]
+        }
+    },
+    "resume": {
+        "header_info": [
+            "Ankeet Saha",
+            "# ankeet1728@gmail.com H +91 89183 96067 (cid:239) linkedin.com/in/ankeet-saha \u00a7 github.com/Ankeet1729"
+        ],
+        "education-Education": [
+            "Oct 2022 - May 2026",
+            "Indian Institute of Technology Bombay",
+            "Bachelor of Technology in Computer Science and Engineering"
+        ],
+        "achievements-Scholastic Achievements": [
+            "\u2022 Secured an All India Rank of 605 in JEE Advanced out of over 150,000+ candidates",
+            "(2022)",
+            "\u2022 Secured an All India Rank of 322 in JEE Main out of over 1,000,000+ candidates",
+            "(2022)"
+        ],
+        "experience-Work Experience": [
+            {
+                "title": "Intro",
+                "details": [
+                    "(May - July 2024)"
+                ]
+            },
+            {
+                "title": "Fuzzing to Test JIT Compiler | Research Internship",
+                "details": [
+                    "Guide: Prof. Andreas Zeller | CISPA, Germany",
+                    "\u2022 Learned multiple sophisticated fuzzing techniques aimed at automating the discovery of bugs in softwares",
+                    "\u2022 Utilized modern, real-world fuzzers to generate automated test cases and examined their implementation",
+                    "\u2022 Worked on developing a fuzzer to automate testing of the JIT compiler used in PyPy for Python programs",
+                    "\u2022 Implemented the Fuzzer using methodologies detailed in the academic paper \"CREAL: Compiler-assisted",
+                    "Representation Learning for Dynamic Analysis\" authored by Shao-Hua Li",
+                    "(May 2024)"
+                ]
+            },
+            {
+                "title": "Penetration Testing | Corporate Internship",
+                "details": [
+                    "Del Capital | Remote",
+                    "\u2022 Performed an extensive Penetration Test on the internal infrastructure of Del Capital on 11 company roles",
+                    "\u2022 Reported security vulnerabilities and risks like race condition, use of outdated webservers with known CVE",
+                    "(May 2025 - July 2025)"
+                ]
+            },
+            {
+                "title": "Intern Analyst | Corporate Internship",
+                "details": [
+                    "Wells Fargo International Solutions | Hyderabad, India",
+                    "\u2022 Automated migration of reporting workflows from SAP BusinessObjects to Power BI",
+                    "\u2022 Extended the open-source SQL parser sqlglot to support Teradata stored procedure parsing for lineage extraction",
+                    "\u2022 Engineered a custom solution to programmatically derive data lineage from SQL query structures",
+                    "\u2022 Generated regulator-ready data lineage visualizations and metadata for internal databases"
+                ]
+            }
+        ],
+        "positions-Positions of Responsibilities": [
+            {
+                "title": "Intro",
+                "details": [
+                    "(April 2023 - 2024)"
+                ]
+            },
+            {
+                "title": "Core Team Member | Cyber Security Community, IIT Bombay",
+                "details": [
+                    "Part of a team of 8 students catering to the Cyber Security related interests of 5000+ students of the Institute",
+                    "\u2022 Conducted 3 Cyber Security courses in Learners\u2019 Space summer programme, by UGAC, IITBombay",
+                    "\u2022 Successfully organised an Introductory CTF Session and a Basics of Hacking Session for 500+ students",
+                    "\u2022 Participated in CTF competitions with team IITBreachers, consistently ranking in India\u2019s top 10 on CTFtime",
+                    "\u2022 Successfully organised a beginner level CTF within the institute and implemented challenges for the same",
+                    "\u2022 Designed and implemented multiple CTF challenges for an upcoming international CTF competition",
+                    "(January - April 2024)"
+                ]
+            },
+            {
+                "title": "Teaching Assistant | Web Application Security Course",
+                "details": [
+                    "Guide: Prof. Kameswari Chebrolu",
+                    "\u2022 Created Web Application Security Labs as course content using Django framework based on vulnerabilities in",
+                    "Web Sockets, misconfigurations in CSRF tokens, and protection against SQLI attacks",
+                    "\u2022 Conducted rigorous security tests on labs based on SQLI, SSRF, Arbitrary File Upload, Path Traversal,",
+                    "Command Injection and CORS misconfiguration to identify potential unintended vulnerabilities"
+                ]
+            }
+        ],
+        "projects-Projects": [
+            {
+                "title": "Intro",
+                "details": [
+                    "(2023)"
+                ]
+            },
+            {
+                "title": "Python Web Crawler | Course Project",
+                "details": [
+                    "Guide: Prof. Kameswari Chebrolu",
+                    "\u2022 Designed and developed a Python web crawler utilizing libraries like Requests and BeautifulSoup",
+                    "\u2022 Added a depth-limiting functionality which allows users to crawl websites to a specified depth",
+                    "\u2022 Implemented an additional feature that enables users to display the file type of the crawled links",
+                    "\u2022 Introduced an optional flag, which when specified, only crawls links without the status code of 4xx",
+                    "(2023)"
+                ]
+            },
+            {
+                "title": "AI-Powered Quiz Generation Platform | Course Project",
+                "details": [
+                    "Guide: Prof. Ramkumar Rajendran",
+                    "\u2022 Built an AI-Powered Quiz Generation Platform that uses video transcripts to generate personalised",
+                    "quizzes tailored to students\u2019 grade of study and video content.",
+                    "\u2022 Designed and developed full-stack architecture using Node.js + Express and React with REST APIs and a",
+                    "responsive user interface.",
+                    "\u2022 Integrated Google Gemini AI for automated quiz question generation from video transcripts and implemented",
+                    "hierarchical content organization (supermodules \u2192 videos \u2192 quiz sets).",
+                    "\u2022 Engineered student dashboard and admin panel enabling quiz taking, results tracking, performance monitor-",
+                    "ing at concept level, and quiz management with visibility controls.",
+                    "\u2022 Developed Python scripts for transcript processing, concept extraction, and AI-driven question generation, and",
+                    "seeded structured educational data into PostgreSQL database.",
+                    "(2023)"
+                ]
+            },
+            {
+                "title": "Shared Rating System | Course Project",
+                "details": [
+                    "Guide: Prof. S Sudarshan",
+                    "\u2022 Developed a full-stack web application enabling users to rate, review, and discuss content (movies, books, games)",
+                    "\u2022 Built a responsive frontend using React (TypeScript) with Tailwind CSS and SPA architecture",
+                    "\u2022 Implemented a Node.js (Express.js) backend with PostgreSQL for persistent storage and RESTful APIs",
+                    "\u2022 Designed and normalized database schema to support content, ratings, discussions, messaging, and social graphs",
+                    "\u2022 Engineered a C++ based recommendation engine using cosine similarity for collaborative filtering; integrated",
+                    "with backend via child process",
+                    "\u2022 Implemented secure authentication (bcrypt, session cookies), input validation, and session management",
+                    "\u2022 Created features like threaded discussions with recursive SQL, direct messaging with polling, and privacy-",
+                    "controlled friend lists"
+                ]
+            }
+        ],
+        "certifications-Relevant Courses": [
+            "Operating Systems, Principles of Data and System Security, Software Systems",
+            "Computer Science:",
+            "Lab, Data Structures and Algorithms, Computer Programming and Utilization,",
+            "Discrete Structures, Data Analysis and Interpretation, Computer Architecture, Logic",
+            "and Theory of Computation, Design and Analysis of Algorithms, Artificial Intelligence",
+            "and Machine Learning, Computer Networks, Abstractions and Paradigms for",
+            "Programming, Database and Information Systems, Implementation of Programming",
+            "Languages",
+            "Calculus, Linear Algebra, Differential Equations",
+            "Mathematics:",
+            "Introduction to Economics, Introduction to Classical and Quantum Physics, Introduction",
+            "Others:",
+            "to Philosophy and Management, Physical Chemistry, Organic and Inorganic Chemistry"
+        ],
+        "skills-Technical Skills": [
+            "C/C++, Python, Bash, MIPS, x86-64, SQL, LATEX, Markdown",
+            "Languages",
+            "HTML, CSS, JavaScript, Django, NodeJS, PHP, Git",
+            "Development",
+            "Nmap, Burpsuite, Wireshark, Metasploit, Pwntools, Tcpdump, Sockets,",
+            "Libraries and Softwares",
+            "Requests, NumPy, Docker"
+        ],
+        "achievements-Cyber Security Achievements": [
+            "\u2022 Successfully reported a misconfiugration in IIT Bombay Mars Server that allowed escalating privileges to root",
+            "\u2022 Successfully reported an IDOR vulnerability in a course VM allowing admin access to a database of students",
+            "\u2022 Secured 8th position in Nullcon CTF 2023 as team IITBreachers out of more than 500+ teams",
+            "\u2022 Attained 4th position in TrustLab CTF 2023 conducted by IIT Bombay in freshman year",
+            "\u2022 Secured 64th position in Sekai CTF 2023 as team IITBreachers out of more than 2000+ teams",
+            "\u2022 Among top 5 percent in TryHackMe, an industry recognized platform for learning cyber security",
+            "\u2022 Solved 100+ Portswigger Labs involving various Web Application Security concepts including OWASP top 10",
+            "\u2022 Solved 20+ boxes in HackTheBox and TryHackMe demonstrating proficiency in penetration testing concepts"
+        ],
+        "extracurricular-Extracurriculars": [
+            "\u2022 Writing Blogs in Medium related to various Cyber Security topics with overall 7500+ views",
+            "(Ongoing)",
+            "\u2022 Participant in semi contact State Level Kickboxing Championship, West Bengal",
+            "(2017)",
+            "\u2022 Awarded green belt in Wado Kai Karate, a form of martial art, one of the four variants of Karate",
+            "(2018)",
+            "\u2022 Completed a year long training program in athletics under National Sports Organization",
+            "(2023)",
+            "\u2022 Participated in Gyrations, the Inter-Hostel Dance Competition at IIT Bombay",
+            "(2023)",
+            "\u2022 Built an Arduino based RC car in XLR8, an introductory Electronics event in IIT Bombay",
+            "(2022)",
+            "\u2022 Participated in inter-school Chess Competition at Saint Paul\u2019s School, Jalpaiguri",
+            "(2019)"
+        ]
+    }
+}
