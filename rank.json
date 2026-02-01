@@ -1,0 +1,72 @@
+{
+    "achievements-Scholastic Achievements": {
+        "lines": [
+            {
+                "text": "\u2022 Secured All India Rank 1957 out of 1.5 Lakh+ candidates appearing for JEE Advanced examination",
+                "font_size": 10.9,
+                "bold_ratio": 0.19753086419753085,
+                "font_name": "CMR10",
+                "y": 118.4312556,
+                "x": 36.0,
+                "is_header": false
+            },
+            {
+                "text": "2022",
+                "font_size": 10.0,
+                "bold_ratio": 0.0,
+                "font_name": "CMR10",
+                "y": 118.4312556,
+                "x": 556.07199532,
+                "is_header": false
+            },
+            {
+                "text": "\u2022 Obtained 99.6 percentile and an All India Rank 3658 among 10 Lakh+ candidates in JEE Main",
+                "font_size": 10.0,
+                "bold_ratio": 0.18666666666666668,
+                "font_name": "CMR10",
+                "y": 104.0022556,
+                "x": 36.443,
+                "is_header": false
+            },
+            {
+                "text": "2022",
+                "font_size": 10.0,
+                "bold_ratio": 0.0,
+                "font_name": "CMR10",
+                "y": 104.0022556,
+                "x": 556.0742833200001,
+                "is_header": false
+            },
+            {
+                "text": "\u2022 Recipient of National Talent Search (NTS) scholarship given by NCERT to top 2000 students nationwide",
+                "font_size": 10.0,
+                "bold_ratio": 0.41379310344827586,
+                "font_name": "CMR10",
+                "y": 89.5732556,
+                "x": 36.443,
+                "is_header": false
+            },
+            {
+                "text": "2020",
+                "font_size": 10.0,
+                "bold_ratio": 0.0,
+                "font_name": "CMR10",
+                "y": 89.5732556,
+                "x": 556.0772721000001,
+                "is_header": false
+            }
+        ],
+        "ranks": [
+            {
+                "exam": "JEE Advanced",
+                "rank": "1957",
+                "context": "\u2022 Secured All India Rank 1957 out of 1.5 Lakh+ candidates appearing for JEE Advanced examination"
+            },
+            {
+                "exam": "JEE Mains",
+                "rank": "3658",
+                "context": "an All India Rank 3658 among 10 Lakh+ candidates in JEE Main"
+            }
+        ]
+    }
+}
